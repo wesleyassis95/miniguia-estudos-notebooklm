@@ -57,7 +57,9 @@ Prompts Reutilizáveis:
 
 
 
+Link para consulta do meu NotebookLM sobre Machine Learning. 
 
+https://notebooklm.google.com/notebook/d14d360f-c498-48ee-ba32-b3d1f998c509/preview
 
 
 
